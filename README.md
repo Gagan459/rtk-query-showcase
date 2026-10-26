@@ -13,7 +13,7 @@ http://localhost:5180/
 
 To run it locally or restart:
 ```bash
-cd C:\Users\gagan\.gemini\antigravity-ide\scratch\rtk-query-showcase
+cd C:\Users\gagan\OneDrive\Ta`i liê?u\Gloris_tasks\rtk-query-showcase
 npm install
 npm run dev -- --port 5180
 ```
